@@ -9,7 +9,7 @@ export default function Home() {
         <section className="max-w-4xl mx-auto px-6 py-32 text-center flex flex-col items-center justify-center min-h-[calc(100vh-80px)]">
           <div className="mb-6">
             <h1 className="text-6xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-              Hey, I'm Rakell 👋
+              Hey, welcome 👋
             </h1>
           </div>
           
