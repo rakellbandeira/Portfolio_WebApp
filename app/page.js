@@ -8,7 +8,7 @@ export default function Home() {
       <main className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
         <section className="max-w-4xl mx-auto px-6 py-32 text-center flex flex-col items-center justify-center min-h-[calc(100vh-80px)]">
           <div className="mb-6">
-            <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+            <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
               Hello, Rakell here 👋
             </h1>
           </div>
