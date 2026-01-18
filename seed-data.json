@@ -1,0 +1,47 @@
+{
+  "title": "Books Web Application",
+  "description": "Reading web application built for a local language school",
+  "imageUrl": "/images/projects/eslbooks/1.png",
+  "tags": ["React", "Node.js", "MongoDB", "API"],
+  "paragraph": "A local language school was in need of a personalized ebook reading platform to turn their students' experiencing over to a better one, sustainig their unique strategies of teaching reading skills. A web application was chosen structured to comprise auto-translation with text-to-speech adn text-to-audio features, along with word bookmarking in every ebook. Both Android and iOS adevices could access it through the browser, transforming more than 500 language classes of that school.",
+  "image2Url": "/images/projects/eslbooks/2.png",
+  "image3Url": "/images/projects/eslbooks/3.png",
+  "image4Url": "/images/projects/eslbooks/44.png",
+  "image5Url": "/images/projects/eslbooks/4.png",
+  "image6Url": "/images/projects/eslbooks/5.png",
+  "image7Url": "/images/projects/eslbooks/7.png"
+}
+
+
+{
+  "title": "Recipe Tool Web Application",
+  "description": "Recipe tool web application with vanilla JavaScript and API integration!",
+  "imageUrl": "/images/projects/recipetool/1.png",
+  "tags": ["Vanilla JavaScript", "API"],
+  "paragraph": "In the early days of my learning, I was prompted to put my API integration knowledge to practice and I came up with this very useful tool. Inspired in many similar projects from my peers, I built a web application that lets you find recipes that contains the ingredients I have at home, allowing me to not waste time when cooking, while favoriting the recipes I want to to keep at hand while browsing thorugh a UX friendly interface.",
+  "image2Url": "/images/projects/recipetool/2.png"
+}
+
+{
+  "title": " Digital Marriage Invitation",
+  "description": "A charming marriage invitation sent via chat to friends to have fun!",
+  "imageUrl": "/images/projects/marriageapp/1.png",
+  "tags": ["React", "Expresss JS", "MongoDB"],
+  "paragraph": "A stylish way to engage the guest and transform the invitation experience something unique. The guest can easily access the invitation sent by digital vehicles, sent music suggestions, advices for the couple and even prompted on a quiz to discover how much the guest know about the couple. The bride can also receive their RPSV in a digital dashboard and easily control their guest list in the same place",
+  "image2Url": "/images/projects/marriageapp/2.png",
+  "image3Url": "/images/projects/marriageapp/3.png",
+  "image4Url": "/images/projects/marriageapp/4.png",
+  "image5Url": "/images/projects/marriageapp/5.png"
+}
+
+
+{
+  "title": "ACME Costumer Management Web Application",
+  "description": "This is a sample project for the Next.js Learn Course.",
+  "imageUrl": "/images/projects/acme/1.png",
+  "tags": ["Next JS", "MongoDB"],
+  "paragraph": "A platform with data transformed into dahsboards, graphs, control panels and many othher features. This project was prompted in my Next JS class, yielding a great deal of knowledge.",
+  "image2Url": "/images/projects/acme/2.png",
+  "image3Url": "/images/projects/acme/3.png",
+  "image4Url": "/images/projects/acme/4.png"
+}
