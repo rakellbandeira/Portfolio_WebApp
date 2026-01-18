@@ -25,7 +25,7 @@ export default function Projects() {
       <Navbar />
       <main className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-6">
-          <h1 className="text-4xl font-bold mb-12">My Projects</h1>
+          <h1 className="text-4xl font-bold mb-12 text-blue-800">My Projects</h1>
           
           {loading ? (
             <p className="text-center text-gray-600">Loading...</p>
