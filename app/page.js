@@ -8,13 +8,13 @@ export default function Home() {
       <main className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
         <section className="max-w-4xl mx-auto px-6 py-32 text-center flex flex-col items-center justify-center min-h-[calc(100vh-80px)]">
           <div className="mb-6">
-            <h1 className="text-6xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-              Hey, Rakell here 👋
+            <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+              Hello, Rakell here 👋
             </h1>
           </div>
           
           <p className="text-xl text-gray-700 mb-4 max-w-2xl leading-relaxed">
-            A Software developer dedicated to web experiences and other solutions.
+            A Software developer dedicated to web experiences and other software solutions.
           </p>
           <p className=" text-gray-700 mb-8 max-w-xl leading-relaxed">(Strength: Turn lost causes into bugs, and then into features. It's called the development cycle.)</p>
           
