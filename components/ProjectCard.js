@@ -31,12 +31,12 @@ export default function ProjectCard({ project }) {
         </div>
         
         <a 
-          href={project.github} 
+          href={project.link} 
           target="_blank" 
           rel="noopener noreferrer"
           className="inline-flex items-center text-blue-600 hover:text-blue-800 font-semibold group/link"
         >
-          View Code 
+          View link 
           <span className="ml-2 group-hover/link:translate-x-1 transition">→</span>
         </a>
       </div>
