@@ -6,7 +6,7 @@ export default function About() {
       <Navbar />
       <main className="min-h-screen bg-gray-50 py-16">
         <div className="max-w-3xl mx-auto px-6">
-          <h1 className="text-5xl font-bold mb-8 text-blue">About Me</h1>
+          <h1 className="text-5xl font-bold mb-8 text-blue-800">About Me</h1>
 
           <div className="mb-12 flex justify-center">
             <div className="w-48 h-48 md:w-56 md:h-56 rounded-full overflow-hidden shadow-xl border-4 border-white">
