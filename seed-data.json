@@ -49,3 +49,13 @@
   "image3Url": "/images/projects/acme/3.png",
   "image4Url": "/images/projects/acme/4.png"
 }
+
+{
+  "title": "Web Music Player",
+  "description": "A home-made music player as a web application! It has all the tools one needs to enjoy indie music",
+  "imageUrl": "/images/projects/musicplayer/1.png",
+  "tags": ["React"],
+  "paragraph": "A home-made music player as a web application! It has all the tools one needs to enjoy indie music",
+  "link": "https://musicsac.vercel.app/",
+  "image2Url": "/images/projects/musicplayer/2.png"
+}
